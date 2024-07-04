@@ -36,14 +36,3 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     RISING_CHIPSET="Snapdragon 778G" \
     RISING_MAINTAINER="Joaquin & Leonardo"
-
-PRODUCT_PACKAGES:= \
-    Photos \
-    MarkupGoogle \
-    LatinIMEGooglePrebuilt \
-    AiWallpapers \
-    WallpaperEmojiPrebuilt \
-    PrebuiltDeskClockGoogle \
-    CalculatorGooglePrebuilt \
-    CalendarGooglePrebuilt \
-    Velvet
